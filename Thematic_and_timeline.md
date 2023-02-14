@@ -30,6 +30,7 @@ We should decide to which one of those workshops we want to submit
 | finish learning big data tools: spark, hadoop, hive,... | Marc | ? |
 
 ## Timeline
+
 | Period | Expected Results |
 |---|---|
 | **1st month** | Needs studies and design of the massive data infrastructure |
