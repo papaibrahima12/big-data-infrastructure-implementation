@@ -27,7 +27,7 @@ We should decide to which one of those workshops we want to submit
 | Workshop | URL | Deadline |
 |---|---|---|
 | complete pharo's apprenticeship | https://www.fun-mooc.fr/fr/cours/programmation-objet-immersive-en-pharo/ | March 01 |
-| finish learning big data tools: spark, hadoop, hive,... |  | ? |
+| finish learning big data tools: spark, hadoop, hive,... | Marc | ? |
 
 ## Timeline
 | Period | Expected Results |
@@ -35,6 +35,6 @@ We should decide to which one of those workshops we want to submit
 
 - **1st month** | Needs studies and design of the massive data infrastructure
 - **2nd month** | Installation of the components of the infrastructure (systems of storage, compute servers, networks, security tools)
-- **3th month** | Infrastructure testing
-- **4th month** | Commissioning of the infrastructure
+- **3th month** | Commissioning of the infrastructure
+- **4th month** | Infrastructure testing
 - **5th month** | Infrastructure maintenances
