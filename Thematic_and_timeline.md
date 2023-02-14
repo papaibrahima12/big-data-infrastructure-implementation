@@ -27,7 +27,7 @@ We should decide to which one of those workshops we want to submit
 | Workshop | URL | Deadline |
 |---|---|---|
 | complete pharo's apprenticeship | https://www.fun-mooc.fr/fr/cours/programmation-objet-immersive-en-pharo/ | March 01st |
-| Doing LinkedList Exercise in pharo Mooc Week 3 | February 16th |
+| Doing LinkedList Exercise in pharo Mooc Week 3 |  | February 16th |
 | finish learning big data tools: spark, hadoop, hive,... |  | March 01th |
 
 ## Timeline
