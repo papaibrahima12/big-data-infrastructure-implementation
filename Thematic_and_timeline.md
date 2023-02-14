@@ -32,7 +32,6 @@ We should decide to which one of those workshops we want to submit
 ## Timeline
 | Period | Expected Results |
 |---|---|
-
 | **1st month** | Needs studies and design of the massive data infrastructure |
 | **2nd month** | Installation of the components of the infrastructure (systems of storage, compute servers, networks, security tools) |
 | **3th month** | Commissioning of the infrastructure |
